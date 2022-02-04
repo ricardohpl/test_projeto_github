@@ -44,3 +44,13 @@ https://github.com
 ## Imagem com Link
 
 [![Logo do JS](https://img1.gratispng.com/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg)](https://www.google.com)
+
+## Inserir código
+
+#### Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
