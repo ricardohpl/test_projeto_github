@@ -3,7 +3,7 @@ Este é mais um projeto apenas para *testes e estudos* das ***funcionalidades***
 
 ## Ações
 
-Teste de fluxos de merge e branches, funcionalidades da web, etc
+**Teste de fluxos de _merge e branches_, funcionalidades da web, etc**
 
 ###### Projetos
 
