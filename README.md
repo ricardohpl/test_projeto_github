@@ -37,4 +37,5 @@ Testes de markdown para README.md
 ## Links interessantes:
 
 [Google](https://www.google.com)
-[https://github.com](https://github.com)
+
+https://github.com
