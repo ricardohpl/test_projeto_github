@@ -54,3 +54,10 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+## Inserindo lista de tarefas de um projeto ecommerce
+
+- [x] Area de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [x] CSS do rodapé
