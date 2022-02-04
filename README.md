@@ -1,5 +1,5 @@
 # Test_projeto_github
-Este é mais um projeto apenas para testes e estudos das funcionalidades do GitHub.
+Este é mais um projeto apenas para *testes e estudos* das funcionalidades do **GitHub**.
 
 ## Ações
 
