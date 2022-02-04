@@ -19,5 +19,8 @@ Projeto a, Projeto b
 ### Ordenação
 
 1. Administração do site
+    1. Admin de usuários
+    2. Admin de páginas
+    3. Configurações de produtos
 2. Area de membro
 3. Clientes
