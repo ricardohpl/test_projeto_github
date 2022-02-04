@@ -32,3 +32,9 @@ Testes de markdown para README.md
 #### Inserindo imagem externa
 
 ![Logo do JS](https://img1.gratispng.com/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg)
+
+
+## Links interessantes:
+
+[Google](https://www.google.com)
+[https://github.com](https://github.com)
