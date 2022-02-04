@@ -7,7 +7,7 @@ Este é mais um projeto apenas para *testes e estudos* das ***funcionalidades***
 
 ##### Projetos
 
-Projeto a, Projeto b
+Testes de markdown para README.md
 
 ### Possíveis linguagens
 * HTML
@@ -24,3 +24,11 @@ Projeto a, Projeto b
     3. Configurações de produtos
 2. Area de membro
 3. Clientes
+
+#### Inserindo imagem local
+
+![Logo do web dev](img/web-dev-logo.jpg)
+
+#### Inserindo imagem externa
+
+![Logo do JS](https://img1.gratispng.com/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg)
